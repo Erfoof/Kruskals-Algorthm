@@ -1,0 +1,13 @@
+6
+0 A
+1 B
+2 C
+3 D
+4 E
+5 F
+i i i 6 7 i 
+i i i 4 9 6 
+i i i i i i 
+6 4 i i 7 2 
+7 9 i 7 i i 
+i 6 i 2 i i 
