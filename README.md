@@ -1,2 +1,4 @@
 # Kruskals-Algorthm
-Kruskal's Input &amp; Ouput Algorithms.
+The program details are all provided in the pdf.
+There is an example input file provided for testing.
+Note: Input file should be in the same directory as output file.
