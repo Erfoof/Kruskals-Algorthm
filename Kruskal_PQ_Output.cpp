@@ -1,15 +1,3 @@
-//Program: Rahmani_Erfan_Kruskal_PQ_Output.cpp
-//Course: TCP2101 Algorithm Design & Analaysis
-//Class: TC1L
-//Trimester: 2220
-//Member_1 1201102372 | Rahmani Erfan | 1201102372@student.mmu.edu.my | //+60 183120426
-//********************************************************************************
-//Task Distribution:
-// Member 1: Everything
-//********************************************************************************
-
-
-
 #include <iostream>
 #include <fstream>
 #include <string>
